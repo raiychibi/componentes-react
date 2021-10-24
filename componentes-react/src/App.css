@@ -1,0 +1,25 @@
+h1{
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h2{
+    color:deeppink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.pare{
+color: red;
+}
+.atencao{
+color: darkgoldenrod;
+}
+.siga{
+color:darkgreen;
+}
+
+li{
+    color:darkmagenta;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
